@@ -18,8 +18,8 @@
            "inArguments":[
 				
 		   { "Title": "{{Event.6603B96A-F6C3-4707-B85A-5C1AACD2C2DE.Title}}"},
-		   { "Data": "{{Contact.Attribute.PushyAPIDataDictionary.Data}}"},
-		   {"DeviceToken": "{{Contact.Attribute.PushyAPIDataDictionary.DeviceToken}}"}
+		   { "Data": "{{Contact.Attribute.PushyAPIDataDictionaryV2Test.Data}}"},
+		   {"DeviceToken": "{{Contact.Attribute.PushyAPIDataDictionaryV2Test.DeviceToken}}"}
                 									
 			],
           "outArguments": [],
