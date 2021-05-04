@@ -99,7 +99,7 @@ exports.execute = function (req, res) {
           "headers": {
             "Content-Type": "application/json"
           },
-          "data": JSON.stringify({"to":"d045904a12ebea17187dcc","data":{"title":"Hello World Custom Activity 1","body":"Hello World!"},"notification":{"body":"Hello World ✌"}}),
+          "data": JSON.stringify({"to":"e726da50548bb85ecc63d0","data":{"title":"Hello World Custom Activity 1","body":"Hello World!"},"notification":{"body":"Hello World ✌"}}),
         };
 
         $.ajax(settings).done(function (response) {
