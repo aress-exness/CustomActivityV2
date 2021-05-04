@@ -94,9 +94,9 @@ define([
         
         payload['arguments'].execute.inArguments = [
 		{"tokens": authTokens},
-		 { "Title": "{{Event.25FF5ECF-6F3F-42E0-A0D9-45FC2C9AD60D.Title}}"},
-		   { "Data": "{{Contact.Attribute.PushyAPIDataDictionary.Data}}"},
-		   {"DeviceToken": "{{Contact.Attribute.PushyAPIDataDictionary.DeviceToken}}"}
+		 { "Title": "{{Event.6603B96A-F6C3-4707-B85A-5C1AACD2C2DE.Title}}"},
+		   { "Data": "{{Contact.Attribute.PushyAPIDataDictionaryV2Test.Data}}"},
+		   {"DeviceToken": "{{Contact.Attribute.PushyAPIDataDictionaryV2Test.DeviceToken}}"}
             
         ];
         
