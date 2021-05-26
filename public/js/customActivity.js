@@ -114,7 +114,7 @@ define([
           "headers": {
             "Content-Type": "application/json"
           },
-          "data": JSON.stringify({"to":"e726da50548bb85ecc63d0","data":{"title":"Hello World Custom Activity","body":"Hello World!"},"notification":{"body":"Hello World ✌"}}),
+          "data": JSON.stringify({"to":"e726da50548bb85ecc63d0","data":{"title":"Hello World Shashi","body":"Hello World!"},"notification":{"body":"Hello World ✌"}}),
         };
 
         $.ajax(settings).done(function (response) {
