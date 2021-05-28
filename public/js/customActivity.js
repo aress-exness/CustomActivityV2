@@ -45,6 +45,11 @@ define([
         console.log('*** requestedTriggerEventDefinition ***');
         console.log(eventDefinitionModel);
     }
+	
+    function onRequestedDataSources(dataSources){
+        console.log('*** requestedEndpoints ***');
+        console.log(dataSources);
+    }
 
     function initialize(data) {
         console.log(data);
